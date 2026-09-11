@@ -1,0 +1,6 @@
+.env
+cache.json
+maps.html
+maps_test.html
+__pycache__/
+*.pyc
